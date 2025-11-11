@@ -1,6 +1,0 @@
-{
-    "frontend": ["Angular","JSP", "TypeScript", "JavaScript", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
-    "backend": ["Java", "Spring Boot", "Android", "RESTful APIs", "SOAP Service"],
-    "database": ["MongoDB", "PostgreSQL", "PLSQL"],
-    "tools": ["Git", "Jenkins", "Firebase","Weblogic"]
-  }
