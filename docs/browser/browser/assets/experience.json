@@ -1,0 +1,39 @@
+[
+  {
+    "title": "System Engineer",
+    "company": "Tata Consultancy Services",
+    "link":"https://www.linkedin.com/company/tata-consultancy-services/",
+    "location": "Kolkata, India",
+    "period": "August 2023 - Present",
+    "description": [
+      "Automated policy renewal workflows.",
+      "Designed and implemented SOAPbased Web Services for seamless third-party system communication",
+      "Implemented SAML-based Single Sign-On (SSO) for secure, seamless user authentication",
+      "Technical upgrades - Java 6→8 migration, WebLogic 10→12 upgrade, and Oracle 12c→19c database. ",
+      "Resolved 30+ production defects"
+    ]
+  },
+  {
+    "title": "App Developer Intern",
+    "company": "AICAN Automate LLP",
+    "link":"https://www.linkedin.com/company/ai-can-co-in/",
+    "location": "Remote, Mumbai, India",
+    "period": "September 2021 - January 2022",
+    "description": [
+      "Developed IoT-based Home and Lab Automation applications",
+      "Implemented features like QR code scanning for lab components,computer vision-based object height detection",
+      "Integrated REST APIs and IoT communication protocols to ensure seamless real-time data exchange"
+    ]
+  },
+   {
+        "title": "Android Developer Intern",
+        "company": "Thinker Lab",
+        "link":"https://www.linkedin.com/company/thinker-lab/",
+        "location": "Remote, Kolkata, India",
+        "period": "July 2021 - August 2021",
+        "description": [
+          "Designed and developed a comprehensive E-Learning Android Application",
+          "Added interactive features like video streaming, quizzes, and automated email scheduling."
+        ]
+  }
+]
