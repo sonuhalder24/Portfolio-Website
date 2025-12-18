@@ -14,6 +14,7 @@ export class Home implements OnInit{
 
   personalInfo?: PersonalInfo;
   about?:AboutInfo;
+  image='assets/images/1624773105505.jpg';
 
   constructor(private resumeService: ResumeService) {}
   ngOnInit(): void {
